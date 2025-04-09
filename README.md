@@ -35,4 +35,4 @@ This hand gesture recognition system, powered by a MobileNet + GRU model, achiev
 - Special thanks to the Upgrad IIIT Bangalore PG program on ML and AI for providing the learning resources and guidance.
 
 ## Contact
-Created by Ritwik[@ritwik] & Ritesh[@ritesh4aiml] – feel free to reach out for any queries or collaboration!
+Created by Ritwik[@RitwikRaj24] & Ritesh[@ritesh4aiml] – feel free to reach out for any queries or collaboration!
